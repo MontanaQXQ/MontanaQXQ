@@ -2,7 +2,7 @@
 #### I am beginner QA Automation engineer
 
 - 🌱 I’m currently learning Java\Selenide\Selenium\Junit5\IDEA\Jenkins 
-- 👯 I’m looking to collaborate on Real Projects 
+- 👯 I’m looking for collaborate on Real Projects 
 - 📫 How to reach me: MontanaQXQ@yandex.ru 
 
 
